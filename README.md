@@ -56,4 +56,14 @@ yarn /yarn install		--安装项目中的依赖
 
 1.1 安装react-router 4.0、axios、less-loader
 
+```
 yarn add react-router-dom axios less-loader
+```
+
+1.2 暴漏webpack配置
+
+```
+yarn eject
+```
+
+![webpack配置](https://s1.ax1x.com/2018/12/14/FUtPv6.png)
